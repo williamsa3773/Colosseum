@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{B251CAFD-0C31-4568-AC36-063CF9094075}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppDelegate.cs">
     <Files>
       <File FileName="AppDelegate.cs" Line="1" Column="1" />
     </Files>
@@ -8,7 +8,7 @@
         <State name="__root__">
           <Node name="Colosseum" expanded="True">
             <Node name="Colosseum" expanded="True">
-              <Node name="GettingStarted" selected="True" />
+              <Node name="AppDelegate.cs" selected="True" />
             </Node>
           </Node>
         </State>
