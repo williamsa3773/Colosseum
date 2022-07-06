@@ -1,0 +1,13 @@
+/Users/dre/Projects/Colosseum/ConsoleGame/bin/Debug/netcoreapp3.1/ConsoleGame.deps.json
+/Users/dre/Projects/Colosseum/ConsoleGame/bin/Debug/netcoreapp3.1/ConsoleGame.runtimeconfig.json
+/Users/dre/Projects/Colosseum/ConsoleGame/bin/Debug/netcoreapp3.1/ConsoleGame.runtimeconfig.dev.json
+/Users/dre/Projects/Colosseum/ConsoleGame/bin/Debug/netcoreapp3.1/ConsoleGame.dll
+/Users/dre/Projects/Colosseum/ConsoleGame/bin/Debug/netcoreapp3.1/ConsoleGame.pdb
+/Users/dre/Projects/Colosseum/ConsoleGame/obj/Debug/netcoreapp3.1/ConsoleGame.csproj.AssemblyReference.cache
+/Users/dre/Projects/Colosseum/ConsoleGame/obj/Debug/netcoreapp3.1/ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dre/Projects/Colosseum/ConsoleGame/obj/Debug/netcoreapp3.1/ConsoleGame.AssemblyInfoInputs.cache
+/Users/dre/Projects/Colosseum/ConsoleGame/obj/Debug/netcoreapp3.1/ConsoleGame.AssemblyInfo.cs
+/Users/dre/Projects/Colosseum/ConsoleGame/obj/Debug/netcoreapp3.1/ConsoleGame.csproj.CoreCompileInputs.cache
+/Users/dre/Projects/Colosseum/ConsoleGame/obj/Debug/netcoreapp3.1/ConsoleGame.dll
+/Users/dre/Projects/Colosseum/ConsoleGame/obj/Debug/netcoreapp3.1/ConsoleGame.pdb
+/Users/dre/Projects/Colosseum/ConsoleGame/obj/Debug/netcoreapp3.1/ConsoleGame.genruntimeconfig.cache

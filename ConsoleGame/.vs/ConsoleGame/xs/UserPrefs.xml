@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A04BCDC2-A610-4396-98D6-73EDB968F6BF}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Enum.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="46" />
+      <File FileName="MainMenu.cs" Line="28" Column="18" />
+      <File FileName="Input.cs" Line="50" Column="1" />
+      <File FileName="CheckOS.cs" Line="51" Column="55" />
+      <File FileName="Game.cs" Line="13" Column="39" />
+      <File FileName="Enum.cs" Line="9" Column="20" />
+      <File FileName="Factory.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleGame" expanded="True">
+            <Node name="ConsoleGame" expanded="True">
+              <Node name="Enum.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
